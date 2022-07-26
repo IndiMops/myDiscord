@@ -1,0 +1,40 @@
+{
+    "currentVersionInfo": {
+        "version": "1.2.4",
+        "hasShownChangelog": true
+    },
+    "settings": {
+        "category_Loop": {
+            "button_loop": true,
+            "position_loop": 1,
+            "auto_loop": true
+        },
+        "category_PIP": {
+            "PIP": true,
+            "position_PIP": 1,
+            "top_mid_PIP": false
+        },
+        "category_misc": {
+            "min_width": true,
+            "hide_cursor": false
+        },
+        "category_skipping": {
+            "fast_forward_switch": true,
+            "fast_forward_keybind": [
+                [
+                    0,
+                    80
+                ]
+            ],
+            "fast_forward": 5,
+            "rewind_switch": true,
+            "rewind_keybind": [
+                [
+                    0,
+                    79
+                ]
+            ],
+            "rewind": 5
+        }
+    }
+}

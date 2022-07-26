@@ -1,0 +1,19 @@
+{
+    "SpotifyControls": true,
+    "BDFDB": true,
+    "ZeresPluginLibrary": true,
+    "CallTimeCounter": true,
+    "ShowBadgesInChat": true,
+    "Translator": true,
+    "GuildProfile": true,
+    "UserDetails": true,
+    "DiscordActivities": true,
+    "FavoriteMedia": true,
+    "BetterMediaPlayer": true,
+    "PlatformEmulator": true,
+    "BetterInvites": true,
+    "HideChatIcons": true,
+    "BlurNSFW": true,
+    "DownloadEmotes": true,
+    "GameActivityToggle": true
+}
